@@ -28,5 +28,5 @@ If you got error of logining
 git config --global user.name "Sayed Fazal"
 git config --global user.email "sayed.fazal@example.com"
 
-git config --global user.name "saimohith-24"
-git config --global user.email "chintus2411@gmail.com"
+git config --global user.name "venugopalreddygopireddy"
+git config --global user.email "venugopalgopireddy250@gmail.com"
